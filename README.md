@@ -22,7 +22,7 @@
 
 
 ### Due Dates
-- Initial proposal: February 27th requirements found (here)[https://github.com/nss-evening-cohort-12/Capstone-Requirements/blob/main/proposal_requirements.md]
+- Initial proposal: February 27th requirements found [here](https://github.com/nss-evening-cohort-12/Capstone-Requirements/blob/main/proposal_requirements.md)
 - ERD and Issue tickets: March 6th
 - Wireframes: March 9th
 - MVP: March 23
