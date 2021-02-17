@@ -19,3 +19,14 @@
 - Projects shouldn't be for someone who will pay you
 - No games
 - No projects that are super similar to things we have done in class
+
+
+### Due Dates
+- Initial proposal: February 27th requirements found (here)[https://github.com/nss-evening-cohort-12/Capstone-Requirements/blob/main/proposal_requirements.md]
+- ERD and Issue tickets: March 6th
+- Wireframes: March 9th
+- MVP: March 23
+- Demo Day: March 25th 
+
+### Along the way
+We'll have stand ups at the start of each class to check in with what you're working on and any blockers you have
