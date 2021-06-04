@@ -22,11 +22,10 @@
 
 
 ### Due Dates
-- Initial proposal: February 27th requirements found [here](https://github.com/nss-evening-cohort-12/Capstone-Requirements/blob/main/proposal_requirements.md)
-- ERD and Issue tickets: March 6th
-- Wireframes: March 9th
-- MVP: March 23
-- Demo Day: March 25th 
+- Initial proposal: June 8th requirements found [here](./proposal_requirements.md)
+- ERD, Wireframes, and Issue tickets: June 1th
+- MVP: June 24th
+- Demo Day: June 25th 
 
 ### Along the way
 We'll have stand ups at the start of each class to check in with what you're working on and any blockers you have
