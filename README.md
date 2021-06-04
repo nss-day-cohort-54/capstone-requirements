@@ -15,7 +15,8 @@
 - Create a readme that shows another dev how to pull down your code and get it running. The bangazon readme is a good example of this
 
 ### These ideas will get rejected:
-- No games
+- No video games
+- No magic mirror
 - Projects shouldn't be for someone who will pay you
 - No projects that are super similar to things we have done in class
 
