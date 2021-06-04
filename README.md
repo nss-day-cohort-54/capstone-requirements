@@ -23,7 +23,7 @@
 
 ### Due Dates
 - Initial proposal: June 8th requirements found [here](https://github.com/nss-day-cohort-46/CAPSTONE-INFORMATION/blob/main/02-initial-capstone-proposals.md)
-- ERD, Wireframes, and Issue tickets: June 1th (Don't wait till the 11th to turn everything in! The sooner everything is approved the sooner you can start coding) 
+- ERD, Wireframes, and Issue tickets: June 11th (Don't wait till the 11th to turn everything in! The sooner everything is approved the sooner you can start coding) 
 - MVP/Soft Demo: June 24th
 - Demo Day: June 25th 
 
