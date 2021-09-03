@@ -22,7 +22,8 @@
 
 
 ### Due Dates
-- Initial proposal: September 8th requirements found [here](https://github.com/nss-day-cohort-46/CAPSTONE-INFORMATION/blob/main/02-initial-capstone-proposals.md)
+- Initial proposal: September 8th requirements found [here](./proposal_requirements.md)
+    - Once the proposal is filled out send it to your mentor for review 
 - ERD, Wireframes, and Issue tickets: September 10th (Don't wait till the 10th to turn everything in! The sooner everything is approved the sooner you can start coding)
     - Once you have all of this finished, schedule a 1-1 with your mentor to get final approval
 - MVP/Soft Demo: September 23th
