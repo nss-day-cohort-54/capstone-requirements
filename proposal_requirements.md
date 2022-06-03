@@ -11,6 +11,11 @@
 1. Paragraph talking about your motivation for building this project (what problem does it solve, why are you personally invested in this).
 1. Paragraph talking about the rough features you want to build (and identify whether you think each is a stretch or not).
 
+### Create a google sheet and send it to your manager for approval
+1. Here is the proposal [template](https://docs.google.com/document/d/1lANfn889kBs4wkMhO3825_bGU1DZjMa90u7wcK7-_ew/edit?usp=sharing)
+1. Click on File, then "Make a Copy" to create your proposal
+2. Only the top half needs to be filled out for the initial proposal
+
 #### An Indecent Proposal
 
 ###### Match.dog
@@ -77,7 +82,4 @@ The primary user of the application will be children, the secondary user will be
 
 
 
-### Create a google sheet and send it to your manager for approval
-1. Here is the proposal [template](https://docs.google.com/document/d/1lANfn889kBs4wkMhO3825_bGU1DZjMa90u7wcK7-_ew/edit?usp=sharing)
-1. Click on File, then "Make a Copy" to create your proposal
-2. Only the top half needs to be filled out for the initial proposal
+
